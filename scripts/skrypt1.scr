@@ -1,0 +1,34 @@
+
+# print $ticker;
+# debug: 0
+# codedebug: 0
+
+if sma,0,200 > sma,20,200 then
+	if sma,0,100 > sma,15,100 then
+		if sma,0,50 > sma,5,50 then
+			if sma,0,25 > sma,5,25 then
+				print $ticker mocny wzrostowy;
+			else
+				#print $ticker sredni wzrostowy;
+			fi
+		else
+			#print $ticker sma50 spada, sma100 rosnie;
+		fi
+	else
+		#print $ticker sma100 spada, sma200 rosnie;
+	fi
+else
+	if sma,0,100 < sma,15,100 then
+		if sma,0,50 < sma,5,50 then
+			if sma,0,25 < sma,5,25 then
+				print $ticker mocny spadkowy;
+			else
+				#print $ticker sredni spadkowy;
+			fi
+		else
+			#print $ticker sma50 rosnie, sma100 spada;
+		fi
+	else
+		#print $ticker sma100 rosnie, sma200 spada;
+	fi
+fi

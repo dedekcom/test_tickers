@@ -1,0 +1,236 @@
+Badam: d_akcjegpw skrypt: scripts/sila_trendu.dsc
+ACAUTOGAZ korekta w spadkowym
+ACTION spadkowy
+AGORA spadkowy
+ALMA korekta w spadkowym
+ALTERCO spadkowy
+AMREST spadkowy
+ARCUS korekta w spadkowym
+ARTERIA spadkowy
+ASBIS spadkowy
+ASSECOBS korekta w spadkowym
+ASSECOPOL spadkowy
+ASSECOSEE korekta w spadkowym
+ATLASEST spadkowy
+AVIAAML spadkowy
+AVIASG spadkowy
+AWBUD spadkowy
+B3SYSTEM spadkowy
+BALTONA spadkowy
+BANKBPH spadkowy
+BBIDEV spadkowy
+BOWIM spadkowy
+BUDOPOL spadkowy
+BUMECH korekta w spadkowym
+CASHFLOW spadkowy
+CCENERGY korekta w spadkowym
+CEDC spadkowy
+CIGAMES spadkowy
+COMARCH spadkowy
+CORMAY spadkowy
+CPGROUP korekta w spadkowym
+CUBEITG spadkowy
+CZTOREBKA spadkowy
+DBEWZP1113 korekta w spadkowym
+DBEWZP1213 spadkowy
+DBHSCE0314 spadkowy
+DBHSCE0414 spadkowy
+DBOESX1016 spadkowy
+DBWSTX0314 spadkowy
+DBWSTX1115 spadkowy
+DELKO spadkowy
+DGA spadkowy
+DMWDM korekta w spadkowym
+DMWDM-PDA spadkowy
+DROP spadkowy
+ECARD spadkowy
+EFH korekta w spadkowym
+EKANCELAR spadkowy
+ELBUDOWA spadkowy
+ELEMENTAL spadkowy
+EMPERIA spadkowy
+ERBUD spadkowy
+ESTAR spadkowy
+EUROCASH spadkowy
+EUROTEL spadkowy
+FAMUR spadkowy
+FERRUM spadkowy
+FON spadkowy
+GANT spadkowy
+GETIN spadkowy
+GLOBALNRG korekta w spadkowym
+GREENECO spadkowy
+GROCLIN spadkowy
+HARPER spadkowy
+HAWE spadkowy
+HELIO spadkowy
+HYGIENIKA spadkowy
+HYPERION spadkowy
+IDEATFI spadkowy
+IDMSA spadkowy
+IMPEL korekta w spadkowym
+IMPERA spadkowy
+IMPEXMET spadkowy
+INC spadkowy
+INTEGERPL spadkowy
+INTERBUD korekta w spadkowym
+INVGLDFIZ korekta w spadkowym
+INVPRFIZ spadkowy
+IPERMFIZ spadkowy
+IZOSTAL spadkowy
+JJAUTO spadkowy
+JUPITER spadkowy
+KANIA korekta w spadkowym
+KBCRP1FIZ spadkowy
+KBDOM spadkowy
+KDMSHIPNG spadkowy
+KINOPOL spadkowy
+KOFOLA korekta w spadkowym
+KONSSTALI spadkowy
+KOPEX spadkowy
+KRAKCHEM spadkowy
+KREZUS spadkowy
+KSGAGRO spadkowy
+LIVECHAT spadkowy
+LMDSFIZ spadkowy
+LUBAWA spadkowy
+MENNICA spadkowy
+MERCATOR spadkowy
+MERCATOR-PDA spadkowy
+MEWA spadkowy
+MIDAS spadkowy
+MIESZKO spadkowy
+MIS80 spadkowy
+MISPOL spadkowy
+MIT spadkowy
+MLPGROUP spadkowy
+MLPGROUP-PDA spadkowy
+MNI spadkowy
+MOL spadkowy
+MOSTALPLC spadkowy
+MWTRADE korekta w spadkowym
+NCINDEX30 spadkowy
+NCXLIFESCI spadkowy
+NEWAG spadkowy
+NEWWORLDR spadkowy
+NOKAUT spadkowy
+NORTCOAST spadkowy
+NOVAKBM spadkowy
+NOWAGALA spadkowy
+ONE2ONE korekta w spadkowym
+OPENFIN spadkowy
+OPERATERR spadkowy
+OPTEAM spadkowy
+ORCOGROUP korekta w spadkowym
+ORZBIALY spadkowy
+OTLOG spadkowy
+PAMAPOL spadkowy
+PANOVA spadkowy
+PATENTUS korekta w spadkowym
+PBG spadkowy
+PBOANIOLA korekta w spadkowym
+PCGUARD spadkowy
+PCM spadkowy
+PEIXIN spadkowy
+PEKAO spadkowy
+PELION spadkowy
+PEP spadkowy
+PHN spadkowy
+PKNORLEN spadkowy
+PKOGS spadkowy
+PKPCARGO spadkowy
+PLASTBOX spadkowy
+POLIMEXMS spadkowy
+POLMED korekta w spadkowym
+PPG korekta w spadkowym
+PRAGMAFA spadkowy
+PRESCO spadkowy
+PROCAD spadkowy
+PROCHNIK korekta w spadkowym
+PROJPRZEM korekta w spadkowym
+PTI spadkowy
+RAFAKO spadkowy
+RANKPROGR spadkowy
+RAWLPLUG spadkowy
+RCAGRB10918 spadkowy
+RCATXAOPEN spadkowy
+RCCBNAOPEN spadkowy
+RCCECAOPEN spadkowy
+RCCMCAOPEN spadkowy
+RCDACAOPEN korekta w spadkowym
+RCDGRAOPEN spadkowy
+RCDIEAOPEN spadkowy
+RCENGAOPEN spadkowy
+RCGESX10119 spadkowy
+RCIDXB11018 korekta w spadkowym
+RCIOBAOPEN spadkowy
+RCKTXAOPEN spadkowy
+RCLCOAOPEN korekta w spadkowym
+RCNAGAOPEN spadkowy
+RCOGSB0818 spadkowy
+RCRCKGH11114 spadkowy
+RCROGAOPEN spadkowy
+RCROXAOPEN spadkowy
+RCRTMAOPEN spadkowy
+RCRTXAOPEN spadkowy
+RCSABAOPEN spadkowy
+RCSAEAOPEN korekta w spadkowym
+RCSBIAOPEN spadkowy
+RCSBOAOPEN spadkowy
+RCSCEAOPEN spadkowy
+RCSCRAOPEN spadkowy
+RCSDAXOPEN spadkowy
+RCSETAOPEN spadkowy
+RCSFW2OPEN korekta w spadkowym
+RCSSFAOPEN spadkowy
+RCUKBAOPEN spadkowy
+RCW20265BC spadkowy
+RCW20S0315 korekta w spadkowym
+RCWHTAOPEN spadkowy
+RELPOL spadkowy
+ROPCZYCE spadkowy
+ROVESE spadkowy
+SANWIL korekta w spadkowym
+SFINKS spadkowy
+SKOK spadkowy
+SKOTAN spadkowy
+SNIEZKA spadkowy
+SOBIESKI spadkowy
+SOLAR spadkowy
+SRNFIZ spadkowy
+STAPORKOW spadkowy
+SWISSMED spadkowy
+SYGNITY spadkowy
+SYNTHOS spadkowy
+TALANX korekta w spadkowym
+TARCZYNSKI spadkowy
+TARCZYNSKI-PDA korekta w spadkowym
+TATRY spadkowy
+TRANSPOL spadkowy
+TRIGONPP spadkowy
+TRITON spadkowy
+UCATXINDOE spadkowy
+UCBLXAOPEN spadkowy
+UCKTXAOPEN spadkowy
+UCPFTAOPEN spadkowy
+UCSP40OE spadkowy
+UCXUO30IOE korekta w spadkowym
+URSUS-PDA spadkowy
+VARIANT spadkowy
+WADEX spadkowy
+WARIMPEX spadkowy
+WASKO spadkowy
+WAWEL spadkowy
+WESTAISIC spadkowy
+WIG20LEV spadkowy
+WIG20 spadkowy
+WIG250 spadkowy
+WIG30LEV spadkowy
+WIG-INFO spadkowy
+WIG-SPOZYW spadkowy
+WINVEST spadkowy
+YAWAL spadkowy
+ZASTAL spadkowy
+ZREMB korekta w spadkowym
+ZYWIEC korekta w spadkowym
+

@@ -1,0 +1,363 @@
+Badam: d_akcjegpw skrypt: scripts/sila_trendu.dsc
+ACAUTOGAZ korekta w spadkowym
+ACTION spadkowy
+AGORA spadkowy
+AGROTON korekta we wzrostowym
+ALIOR-PDA wzrostowy
+ALMA korekta w spadkowym
+ALTERCO spadkowy
+AMREST spadkowy
+ARCUS korekta w spadkowym
+ARTERIA spadkowy
+ASBIS spadkowy
+ASSECOBS korekta w spadkowym
+ASSECOPOL spadkowy
+ASSECOSEE korekta w spadkowym
+ATLASEST spadkowy
+AVIAAML spadkowy
+AVIASG spadkowy
+AWBUD spadkowy
+B3SYSTEM spadkowy
+BALTONA spadkowy
+BANKBPH spadkowy
+BBIDEV spadkowy
+BBIZENNFI-PP korekta we wzrostowym
+BLACKLION wzrostowy
+BNPPL-PDA korekta we wzrostowym
+BORYSZEW korekta we wzrostowym
+BOWIM spadkowy
+BPHFIZBI1 wzrostowy
+BPHFIZBI2 korekta we wzrostowym
+BPHFIZBI3 wzrostowy
+BPHFIZBI4 wzrostowy
+BPHFIZBI5 wzrostowy
+BPHFIZBI6 wzrostowy
+BPHFIZDS wzrostowy
+BUDOPOL spadkowy
+BUDVARCEN wzrostowy
+BUMECH korekta w spadkowym
+BUWOG korekta we wzrostowym
+CAPITAL wzrostowy
+CASHFLOW spadkowy
+CCENERGY korekta w spadkowym
+CEDC spadkowy
+CELTIC wzrostowy
+CIECH wzrostowy
+CIGAMES spadkowy
+COMARCH spadkowy
+CORMAY spadkowy
+CPGROUP korekta w spadkowym
+CUBEITG spadkowy
+CZTOREBKA spadkowy
+DBCOPS0813 wzrostowy
+DBDAXS0614 wzrostowy
+DBEWZP1113 korekta w spadkowym
+DBEWZP1213 spadkowy
+DBGOLD0114 wzrostowy
+DBGOLD0314 wzrostowy
+DBHSCE0314 spadkowy
+DBHSCE0414 spadkowy
+DBHSCE0514 korekta we wzrostowym
+DBHSCE1213 wzrostowy
+DBOESX1016 spadkowy
+DBOILB0913 wzrostowy
+DBPLAT0414 wzrostowy
+DBSILV1013 wzrostowy
+DBSTXE0218 wzrostowy
+DBSTXE0717 wzrostowy
+DBSTXE0917 wzrostowy
+DBW20S0317 wzrostowy
+DBW20S0417 wzrostowy
+DBW20S0514 wzrostowy
+DBW20S0817 wzrostowy
+DBWIGI0714 wzrostowy
+DBWSTX0114 wzrostowy
+DBWSTX0314 spadkowy
+DBWSTX1115 spadkowy
+DELKO spadkowy
+DGA spadkowy
+DMWDM korekta w spadkowym
+DMWDM-PDA spadkowy
+DMWDM-PP korekta we wzrostowym
+DROP spadkowy
+DUON wzrostowy
+ECARD spadkowy
+EFEKT wzrostowy
+EFH korekta w spadkowym
+EKANCELAR spadkowy
+ELBUDOWA spadkowy
+ELEMENTAL spadkowy
+ELEMENTAL-PDA korekta we wzrostowym
+ELKOP wzrostowy
+EMPERIA spadkowy
+ENERGA korekta we wzrostowym
+ERBUD spadkowy
+ESTAR spadkowy
+ETFSP500 wzrostowy
+EUROCASH spadkowy
+EUROTEL spadkowy
+FAMUR spadkowy
+FEERUM-PDA wzrostowy
+FERRUM spadkowy
+FON spadkowy
+GANT spadkowy
+GETIN spadkowy
+GLOBALNRG korekta w spadkowym
+GNFIBA0614 wzrostowy
+GNFIBA0814 wzrostowy
+GNFIBA0914 wzrostowy
+GNFIBA1014 wzrostowy
+GNFIBA1214 wzrostowy
+GNFIBB0914 wzrostowy
+GREENECO spadkowy
+GROCLIN spadkowy
+HARPER spadkowy
+HAWE spadkowy
+HELIO spadkowy
+HYGIENIKA spadkowy
+HYPERION spadkowy
+IDEATFI spadkowy
+IDMSA spadkowy
+IMMOBILE wzrostowy
+IMPEL korekta w spadkowym
+IMPERA spadkowy
+IMPERA-PDA wzrostowy
+IMPEXMET spadkowy
+INC spadkowy
+INTEGERPL spadkowy
+INTERBUD korekta w spadkowym
+INVGLDFIZ korekta w spadkowym
+INVISTA korekta we wzrostowym
+INVPRFIZ spadkowy
+IPERMFIZ spadkowy
+IZOSTAL spadkowy
+JJAUTO spadkowy
+JUPITER spadkowy
+K2INTERNT wzrostowy
+KANIA korekta w spadkowym
+KBCINDFIZ wzrostowy
+KBCRP1FIZ spadkowy
+KBDOM spadkowy
+KDMSHIPNG spadkowy
+KETY wzrostowy
+KGHM korekta we wzrostowym
+KINOPOL spadkowy
+KOFOLA korekta w spadkowym
+KOMPAP korekta we wzrostowym
+KONSSTALI spadkowy
+KOPEX spadkowy
+KRAKCHEM spadkowy
+KREZUS spadkowy
+KRKA korekta we wzrostowym
+KSGAGRO spadkowy
+LIVECHAT spadkowy
+LMBSFIZ korekta we wzrostowym
+LMDSFIZ spadkowy
+LUBAWA spadkowy
+MABION-PDA korekta we wzrostowym
+MAKARONPL korekta we wzrostowym
+MEDIATEL wzrostowy
+MENNICA spadkowy
+MERCATOR spadkowy
+MERCATOR-PDA spadkowy
+MEWA spadkowy
+MIDAS spadkowy
+MIESZKO spadkowy
+MIRACULUM korekta we wzrostowym
+MIS80 spadkowy
+MISPOL spadkowy
+MIT spadkowy
+MLPGROUP spadkowy
+MLPGROUP-PDA spadkowy
+MNI spadkowy
+MOL spadkowy
+MOSTALPLC spadkowy
+MWTRADE korekta w spadkowym
+NCINDEX30 spadkowy
+NCXLIFESCI spadkowy
+NEWAG spadkowy
+NEWWORLDR spadkowy
+NOKAUT spadkowy
+NORDEABP korekta we wzrostowym
+NORTCOAST spadkowy
+NOVAKBM spadkowy
+NOWAGALA spadkowy
+OLYMPIC korekta we wzrostowym
+ONE2ONE korekta w spadkowym
+OPENFIN spadkowy
+OPERA3GR wzrostowy
+OPERATERR spadkowy
+OPONEO.PL korekta we wzrostowym
+OPTEAM spadkowy
+ORBIS korekta we wzrostowym
+ORCOGROUP korekta w spadkowym
+ORZBIALY spadkowy
+OTLOG spadkowy
+OTLOG-PDA korekta we wzrostowym
+PAMAPOL spadkowy
+PANOVA spadkowy
+PATENTUS korekta w spadkowym
+PBG spadkowy
+PBOANIOLA korekta w spadkowym
+PBSFINANSE korekta we wzrostowym
+PCCROKITA wzrostowy
+PCCROKITA-PDA wzrostowy
+PCGUARD spadkowy
+PCM spadkowy
+PEIXIN spadkowy
+PEKAO spadkowy
+PELION spadkowy
+PEP spadkowy
+PHN spadkowy
+PKNORLEN spadkowy
+PKOGS spadkowy
+PKPCARGO spadkowy
+PLASTBOX spadkowy
+POLIMEXMS spadkowy
+POLMED korekta w spadkowym
+POLNORD-PP wzrostowy
+PPG korekta w spadkowym
+PRAGMAFA spadkowy
+PRESCO spadkowy
+PROCAD spadkowy
+PROCHNIK korekta w spadkowym
+PROJPRZEM korekta w spadkowym
+PTI spadkowy
+RAFAKO spadkowy
+RANKPROGR spadkowy
+RAWLPLUG spadkowy
+RC6OGAOPEN wzrostowy
+RCAGRB10918 spadkowy
+RCATXAOPEN spadkowy
+RCBSLV10715 wzrostowy
+RCBTXAOPEN wzrostowy
+RCCBNAOPEN spadkowy
+RCCECAOPEN spadkowy
+RCCMCAOPEN spadkowy
+RCCPS10315 wzrostowy
+RCCRUAOPEN wzrostowy
+RCCTXAOPEN wzrostowy
+RCDACAOPEN korekta w spadkowym
+RCDAXAOPEN wzrostowy
+RCDGRAOPEN spadkowy
+RCDIEAOPEN spadkowy
+RCENGAOPEN spadkowy
+RCGBSH11116 wzrostowy
+RCGBSH11217 wzrostowy
+RCGESX10119 spadkowy
+RCGSDG10219 wzrostowy
+RCHTXAOPEN wzrostowy
+RCIDXB11018 korekta w spadkowym
+RCIOBAOPEN spadkowy
+RCKAOAOPEN wzrostowy
+RCKGH11214 wzrostowy
+RCKTXAOPEN spadkowy
+RCLCOAOPEN korekta w spadkowym
+RCLLCOOPEN wzrostowy
+RCNAGAOPEN spadkowy
+RCNDXAOPEN wzrostowy
+RCNIKAOPEN korekta we wzrostowym
+RCOGSB0818 spadkowy
+RCOSBAOPEN wzrostowy
+RCPEO10215 wzrostowy
+RCPGE10215 wzrostowy
+RCPGN10315 wzrostowy
+RCPGN10415 wzrostowy
+RCPKN10315 wzrostowy
+RCPKO11214 korekta we wzrostowym
+RCPKO38DC2 wzrostowy
+RCPTXAOPEN wzrostowy
+RCRCKGH11114 spadkowy
+RCROGAOPEN spadkowy
+RCROXAOPEN spadkowy
+RCRTMAOPEN spadkowy
+RCRTXAOPEN spadkowy
+RCSABAOPEN spadkowy
+RCSAEAOPEN korekta w spadkowym
+RCSBIAOPEN spadkowy
+RCSBOAOPEN spadkowy
+RCSCEAOPEN spadkowy
+RCSCPAOPEN wzrostowy
+RCSCRAOPEN spadkowy
+RCSDAXOPEN spadkowy
+RCSDEAOPEN wzrostowy
+RCSDGP0515 wzrostowy
+RCSDGP0717 wzrostowy
+RCSETAOPEN spadkowy
+RCSFW2OPEN korekta w spadkowym
+RCSOJAOPEN korekta we wzrostowym
+RCSP5AOPEN wzrostowy
+RCSSBAOPEN wzrostowy
+RCSSFAOPEN spadkowy
+RCSWRAOPEN wzrostowy
+RCTHYAOPEN wzrostowy
+RCTWW20001 wzrostowy
+RCTWW20002 wzrostowy
+RCUKBAOPEN spadkowy
+RCW20265BC spadkowy
+RCW20275DC wzrostowy
+RCW20AOPEN wzrostowy
+RCW20S0315 korekta w spadkowym
+RCWHTAOPEN spadkowy
+RELPOL spadkowy
+ROPCZYCE spadkowy
+ROVESE spadkowy
+SANWIL korekta w spadkowym
+SFINKS spadkowy
+SKOK spadkowy
+SKOTAN spadkowy
+SNIEZKA spadkowy
+SOBIESKI spadkowy
+SOLAR spadkowy
+SOPHARMA wzrostowy
+SRNFIZ spadkowy
+STAPORKOW spadkowy
+SWISSMED spadkowy
+SYGNITY spadkowy
+SYNTHOS spadkowy
+TALANX korekta w spadkowym
+TARCZYNSKI spadkowy
+TARCZYNSKI-PDA korekta w spadkowym
+TATRY spadkowy
+TELEPOLSKA korekta we wzrostowym
+TRANSPOL spadkowy
+TRIGONPP spadkowy
+TRITON spadkowy
+UCATXINDOE spadkowy
+UCBLXAOPEN spadkowy
+UCDAXPEROE wzrostowy
+UCHTXINDOE wzrostowy
+UCKTXAOPEN spadkowy
+UCKTXINDOE wzrostowy
+UCNIKKEIOE wzrostowy
+UCPFTAOPEN spadkowy
+UCRDXOILOE wzrostowy
+UCSCSMALOE wzrostowy
+UCSOFIXOE wzrostowy
+UCSP40OE spadkowy
+UCSP500OE wzrostowy
+UCSTOX50OE wzrostowy
+UCWIG20OE wzrostowy
+UCXUO30IOE korekta w spadkowym
+URSUS-PDA spadkowy
+VARIANT spadkowy
+WADEX spadkowy
+WARIMPEX spadkowy
+WASKO spadkowy
+WAWEL spadkowy
+WESTAISIC spadkowy
+WIG20LEV spadkowy
+WIG20 spadkowy
+WIG20SHORT wzrostowy
+WIG250 spadkowy
+WIG30LEV spadkowy
+WIG30SHORT wzrostowy
+WIG-INFO spadkowy
+WIG-SPOZYW spadkowy
+WINVEST spadkowy
+YAWAL spadkowy
+ZASTAL spadkowy
+ZELMER korekta we wzrostowym
+ZREMB korekta w spadkowym
+ZYWIEC korekta w spadkowym
+

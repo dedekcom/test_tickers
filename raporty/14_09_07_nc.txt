@@ -1,0 +1,250 @@
+Badam: d_nc skrypt: scripts/sila_trendu.dsc
+ABPOL korekta w spadkowym
+ABSINVEST korekta w spadkowym
+ACARTUS korekta w spadkowym
+ADFORM-PDA spadkowy
+ADMASSIVE spadkowy
+ADMIRAL spadkowy
+ADUMA spadkowy
+ADVERTIGO spadkowy
+AEDES korekta we wzrostowym
+AFHOL wzrostowy
+AGROLIGA spadkowy
+AGTES spadkowy
+AKCEPTFIN spadkowy
+ALEJA-PDA korekta w spadkowym
+ALKAL korekta w spadkowym
+ANALIZY wzrostowy
+APLINTER spadkowy
+APOLONIA spadkowy
+APSENERGY wzrostowy
+APS wzrostowy
+AQUABB wzrostowy
+AQUAPOZ spadkowy
+ARAMUS wzrostowy
+ARTEFE korekta w spadkowym
+ASMGROUP wzrostowy
+ASTORIA wzrostowy
+ATONHT spadkowy
+AUTOSPA spadkowy
+B2BPARTNER spadkowy
+BBCONSULT korekta we wzrostowym
+BETOMAX wzrostowy
+BGE spadkowy
+BGSENERGY spadkowy
+BINARY spadkowy
+BIOFACTOR korekta we wzrostowym
+BORUTA wzrostowy
+BROADGATE wzrostowy
+BUDUS spadkowy
+C2A spadkowy
+CALESCO spadkowy
+CCS spadkowy
+CCTOOLS spadkowy
+CDE korekta we wzrostowym
+CERABUD spadkowy
+CEREALPLT spadkowy
+CERTUS wzrostowy
+CERTUS-PDA wzrostowy
+CFBPS wzrostowy
+CLOUD wzrostowy
+COLOMEDIC wzrostowy
+COMPRESS korekta w spadkowym
+CSY spadkowy
+CSY-PDA spadkowy
+CSY-PP spadkowy
+CUBEITG spadkowy
+DEKTRA korekta w spadkowym
+DEMOLEN-PP spadkowy
+DENTAMDC korekta we wzrostowym
+DEPEND spadkowy
+DEVORAN wzrostowy
+DFP spadkowy
+DIGATE spadkowy
+DOMENOMAN korekta we wzrostowym
+DOMLEK korekta w spadkowym
+DOMZDROW spadkowy
+DRUKPAK wzrostowy
+DXD spadkowy
+EASTSIDE korekta we wzrostowym
+EFENERGII spadkowy
+EKANCELAR spadkowy
+EKOBOX korekta w spadkowym
+ELEMENTAL spadkowy
+EMMERSON spadkowy
+EMONT korekta we wzrostowym
+EMUZYKA wzrostowy
+EPICTURES spadkowy
+EQUITIER spadkowy
+ERS spadkowy
+EXAMOBILE wzrostowy
+FITEN korekta w spadkowym
+FLUID spadkowy
+FLYPL wzrostowy
+FMOZAROW korekta w spadkowym
+FOREVEREN spadkowy
+FORPOSTA spadkowy
+GALVO wzrostowy
+GENERGY korekta w spadkowym
+GENRG wzrostowy
+GEOINVENT spadkowy
+GLOBALTR wzrostowy
+GOLDWYN korekta we wzrostowym
+GONTYNIEC spadkowy
+GOODIDEA spadkowy
+GPFCAUSA korekta we wzrostowym
+GPPI spadkowy
+GRAPHIC spadkowy
+GRJAGUAR korekta we wzrostowym
+GRUPAHRC wzrostowy
+GTRINITY spadkowy
+HOLLYWOOD wzrostowy
+HOTBLOK korekta we wzrostowym
+IAI wzrostowy
+IAP spadkowy
+IBCPOLSKA korekta w spadkowym
+ICMVISION spadkowy
+IDH korekta we wzrostowym
+IGORIA wzrostowy
+INBOOK korekta w spadkowym
+INDATA wzrostowy
+INDEXMEDI wzrostowy
+INDEXMEDI-PDA spadkowy
+INFOSCOPE korekta w spadkowym
+INFOSCOPE-PDA wzrostowy
+INTELIWIS wzrostowy
+INVENTI spadkowy
+INVESTREM spadkowy
+INVISTA korekta we wzrostowym
+INWESTPL spadkowy
+IPODS spadkowy
+ISIAG spadkowy
+IU spadkowy
+IZOBLOK wzrostowy
+KLASZTORNE korekta we wzrostowym
+KLEBAINV spadkowy
+KLON wzrostowy
+KME wzrostowy
+KOMFORTKM spadkowy
+KOMPLEKS wzrostowy
+LABOPRINT wzrostowy
+LASERMED korekta w spadkowym
+LAURENPES korekta we wzrostowym
+LEASINGEX wzrostowy
+LETUS spadkowy
+LGTRADE korekta w spadkowym
+LOGZACT wzrostowy
+LOKATYBUD spadkowy
+LOYD wzrostowy
+M10 wzrostowy
+MAGNIFICO spadkowy
+MAKOLAB korekta we wzrostowym
+MAKORA spadkowy
+MARSOFT korekta w spadkowym
+MBFGROUP korekta w spadkowym
+MEDIANPOL korekta we wzrostowym
+MED spadkowy
+MEGASONIC korekta w spadkowym
+MERA wzrostowy
+MEW spadkowy
+MGMSYS wzrostowy
+MIDVEN wzrostowy
+MILESTONE spadkowy
+MINERAL wzrostowy
+MINOX spadkowy
+MMCPL spadkowy
+MOBINI spadkowy
+MODECOM korekta w spadkowym
+MODE korekta we wzrostowym
+MOMO spadkowy
+MOSTALWRO wzrostowy
+MPLVERBUM korekta we wzrostowym
+MRKUCHAR-PDA korekta we wzrostowym
+MTC korekta w spadkowym
+NANOTEL korekta we wzrostowym
+NAVIMORIN korekta we wzrostowym
+NFPL spadkowy
+NICOGAMES spadkowy
+NOVIAN korekta we wzrostowym
+NWAI spadkowy
+ONICO wzrostowy
+ORGANIC wzrostowy
+ORIONINV wzrostowy
+ORPHEE korekta w spadkowym
+PARTEX korekta w spadkowym
+PFH spadkowy
+PFMEDICAL wzrostowy
+PGSSOFT wzrostowy
+PHARMENA-PDA korekta w spadkowym
+PHARMENA-PP wzrostowy
+PHOENIX spadkowy
+PHOTON spadkowy
+PILAB wzrostowy
+PLATIGE spadkowy
+PLAYMAKER korekta w spadkowym
+POLMAN korekta w spadkowym
+POLTRONIC spadkowy
+POSITIVE spadkowy
+PPG korekta w spadkowym
+PPRICE spadkowy
+PREFABET spadkowy
+PREMFOOD wzrostowy
+PROLOG spadkowy
+PROXYAD spadkowy
+PRYMUS wzrostowy
+PSWCAPITA spadkowy
+PTWP-PDA wzrostowy
+PYLON-PP korekta we wzrostowym
+QUART spadkowy
+RCUNION korekta w spadkowym
+READGENE spadkowy
+RELIGADEV spadkowy
+RICHTER korekta w spadkowym
+ROCCA wzrostowy
+RODAN spadkowy
+ROVITA spadkowy
+RSY wzrostowy
+RUCHCHORZ korekta w spadkowym
+RUNICOM spadkowy
+SCANMEDMM spadkowy
+SESCOM spadkowy
+SETANTA wzrostowy
+SILVACG korekta w spadkowym
+SMOKESHOP spadkowy
+SMSKREDYT spadkowy
+SMTSOFT korekta w spadkowym
+STANDREW wzrostowy
+STANUSCH korekta we wzrostowym
+STEMCELLS spadkowy
+SUNEX wzrostowy
+SURFLAND korekta w spadkowym
+SWISSPSM spadkowy
+SYMBIO wzrostowy
+SYNEKTIK-PDA spadkowy
+SYNKRET spadkowy
+T2INVEST korekta w spadkowym
+TAXUSFUND spadkowy
+TELEMEDPL korekta w spadkowym
+TERRA spadkowy
+TILIA spadkowy
+TPILKA korekta we wzrostowym
+TWIGONET spadkowy
+UBOATLINE spadkowy
+UNIMOTGAZ wzrostowy
+UNITED spadkowy
+VEDIA korekta w spadkowym
+VENO korekta we wzrostowym
+VENTUREIN wzrostowy
+VERBICOM wzrostowy
+VGROUP korekta we wzrostowym
+VIATRON spadkowy
+WASPOL korekta w spadkowym
+WDBBU korekta we wzrostowym
+WIDOKEN spadkowy
+WIERZYCL korekta we wzrostowym
+WODKAN wzrostowy
+XPLUS spadkowy
+XSYSTEM spadkowy
+YURECO wzrostowy
+ZWG korekta w spadkowym
+

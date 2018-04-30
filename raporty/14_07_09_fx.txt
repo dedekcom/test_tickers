@@ -1,0 +1,39 @@
+Badam: d_fx skrypt: scripts/sila_trendu.dsc
+AUDUSD korekta we wzrostowym
+BOSSACZK korekta w spadkowym
+BOSSAEUR spadkowy
+EURDKK spadkowy
+EURGBP spadkowy
+EURNOK wzrostowy
+EURNZD spadkowy
+EURRON spadkowy
+EURSEK wzrostowy
+FBTP10 wzrostowy
+FBUND10 wzrostowy
+FCORN spadkowy
+FHK45 wzrostowy
+FJP225 korekta we wzrostowym
+FNL25 korekta we wzrostowym
+FOAT10 wzrostowy
+FPL20 spadkowy
+FRICE spadkowy
+FSCHATZ2 wzrostowy
+FSOYBEAN spadkowy
+FUS100 wzrostowy
+FUS30 wzrostowy
+FUS500 wzrostowy
+FWHEAT spadkowy
+GBPCHF wzrostowy
+GBPCZK wzrostowy
+GBPJPY wzrostowy
+GBPPLN korekta we wzrostowym
+GBPUSD wzrostowy
+NZDJPY korekta we wzrostowym
+NZDUSD wzrostowy
+PALLADIUM wzrostowy
+PLATINUM wzrostowy
+USDHKD spadkowy
+USDHUF wzrostowy
+USDNOK wzrostowy
+USDSEK wzrostowy
+

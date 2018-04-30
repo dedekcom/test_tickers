@@ -1,0 +1,5 @@
+
+- pobrac aktualne dane po polnocy
+
+- sprawdzic sile walut scripts/waluty.dsc oraz trendy ./checkall.. scripts/sila_trendu.dsc
+
