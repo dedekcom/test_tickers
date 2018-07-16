@@ -1,11 +1,14 @@
-d_akcjegpw/data/
-!d_akcjegpw/data/dir
-d_futgpw/data
-d_fx/data
-d_grupygpw/data
-d_indeksy/data
-d_nc/data/
-!d_nc/data/dir
-d_stooq
+# d_akcjegpw/data/
+# !d_akcjegpw/data/dir
+*.mst
+*.csv
+# d_futgpw/data
+# d_fx/data
+# d_grupygpw/data
+# d_indeksy/data
+# d_nc/data/
+# d_nc/data/dir
+# d_stooq
 d_akcjegpw/download/mstcgl.zip
 d_nc/download/mstncn.zip
+
