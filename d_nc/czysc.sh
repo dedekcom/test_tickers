@@ -1,7 +1,7 @@
 # !/bin/bash
 
-rm ./data/*
-rm ./download/*
+rm ./data/*.mst
+rm ./download/*.zip
 touch ./data/dir
 touch ./download/dir
 
