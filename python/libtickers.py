@@ -60,7 +60,7 @@ def tomonth(inputfile, outputfile):
 		ticker.close()
 		tosave.close()
 	except Exception as e:
-		print 'program failed: ' + e.message
+		print ('program failed: ' + e.message)
 
 def createIndexAndAdline(allfiles, filename_index, filename_adline = None):
 	if filename_adline != None:

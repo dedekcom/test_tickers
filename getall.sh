@@ -11,23 +11,23 @@ cd d_akcjegpw/
 cd ../
 
 cd d_futgpw/
-./getdata.sh
+# ./getdata.sh
 cd ../
 
 cd d_fx/
-./getdata.sh
+# ./getdata.sh
 cd ../
 
 cd d_grupygpw/
-./getdata.sh
+# ./getdata.sh
 cd ../
 
 cd d_indeksy/
-./getdata.sh
+# ./getdata.sh
 cd ../
 
 cd d_nc/
-./getdata.sh
+ ./getdata.sh
 cd ../
 
 echo "Pobrane!"

@@ -1,6 +1,7 @@
 # !/bin/bash
 
-wget http://bossa.pl/pub/newconnect/mstock/mstncn.zip
+# wget http://bossa.pl/pub/ciagle/mstock/mstcgl.zip
+python download.py
 plik="mstncn.zip"
 if [ -e "$plik" ]; then
 	rm data/*
