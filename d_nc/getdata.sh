@@ -4,7 +4,7 @@
 python download.py
 plik="mstncn.zip"
 if [ -e "$plik" ]; then
-	rm data/*
+	rm data/*.mst
 	rm "download/$plik"
 	unzip "$plik"
 	mv *.mst data/
