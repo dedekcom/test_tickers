@@ -16,6 +16,9 @@ def issupported(filename):
 	else:
 		return True
 
+def getfilename(filewithpath):
+	linuxFile = filewithpath.replace('\\','/')
+	return linuxFile.split('/')
 
 def getmonth(line):
 	return line[0].split('-')[1]
@@ -69,7 +72,7 @@ def createIndexAndAdline(allfiles, filename_index, filename_adline = None):
 	ticker = {}
 
 	for f in allfiles:
-		tmp = f.split('/')
+		tmp = getfilename(f)
 		if issupported(tmp[-1]):
 			tckfile = open(f)
 			rows = tckfile.readlines()[1:]

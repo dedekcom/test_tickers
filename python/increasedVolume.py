@@ -15,8 +15,7 @@ allncfiles = glob.glob('../d_nc/data/*.mst')
 def findIncreasedVolume(allfiles, lastPeriod, depthOfSearch, howHigher):
 	result = []
 	for f in allfiles:
-		linuxFile = f.replace('\\','/')
-		tmp = linuxFile.split('/')
+		tmp = libtickers.getfilename(f)
 		ticker = tmp[-1]
 		if libtickers.issupported(ticker):
 			tckfile = open(f)
