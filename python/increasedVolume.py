@@ -56,5 +56,5 @@ depthOfSearch = 200
 print('calc increased volume for last ' + str(lastPeriod) + ' sessions, depth = ' + str(depthOfSearch))
 findIncreasedVolume(allfiles, lastPeriod, depthOfSearch, 1.5)
 
-print('a tera kurwa bedzie nc')
+print('newconnect:')
 findIncreasedVolume(allncfiles, lastPeriod, depthOfSearch, 1.5)
